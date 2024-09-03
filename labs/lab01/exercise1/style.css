@@ -1,0 +1,32 @@
+body {
+    height: 1080px;
+    width:  1920px; 
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+p {
+    margin-top: -5px;
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.col {
+    margin: 15px;
+    flex: 30%;
+}
+
+img {
+    max-width: 100%;
+    min-height: 100%;
+}

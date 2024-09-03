@@ -1,0 +1,43 @@
+body {
+    width: 1011px;
+    height: 669px;
+    font-family: 'Gill Sans';
+    font-size: 1.3em;
+}
+
+.border {
+    height: 656px;
+    margin: 7px 7px 6px 5px;
+    box-sizing: border-box;
+    border: 1px solid #e6e6e6;
+}
+
+.info {
+    margin: 40px;
+    font-stretch: ultra-expanded; 
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.giraffe {
+    float: right;
+    border-radius: 50%;
+    border: 1px solid #e6e6e6;
+    width: 200px;
+    height: 200px;
+    margin-top: -50px;
+}
+
+.gif {
+    width: 225px;
+    margin-left: 35px;
+    margin-top: -25px;
+}
+
+span {
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    font-size: 1.20em;
+}
+
+

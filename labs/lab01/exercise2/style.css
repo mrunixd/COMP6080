@@ -1,0 +1,82 @@
+body {
+    width: 1895px;
+    height: 943px;
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 30px;
+} 
+
+h1 {
+    justify-content: center;
+    font-weight: 300;
+    color: #282421;
+    font-size: 45px;
+}
+
+h2 {
+    color: #c1a86f;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+
+hr {
+    border: 0.5px solid #e9e9e9;
+}
+
+p {
+    font-size: 19.5px;
+    color: #767877;
+}
+
+li {
+    font-size: 19px;
+    color: #767877;
+}
+
+ul {
+    margin-left: 25px;
+}
+
+.container {
+    margin-left: 235px;
+    margin-right: 235px;
+}
+
+.time-container {
+    display: flex;
+    text-wrap: wrap;
+}
+
+.skill-container {
+    display: flex;
+}
+
+.wed {
+    margin: 5px;
+    flex-basis: 100%;
+}
+
+.sat {
+    margin: 5px;
+    flex-basis: 100%;
+}
+
+.middle {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.new {
+    margin: 5px;
+    flex-basis: 100%;
+}
+
+.seasoned {
+    margin: 5px;
+    flex-basis: 100%;
+}
+
+ul {
+    text-align: left;
+}

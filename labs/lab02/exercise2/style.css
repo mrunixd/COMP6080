@@ -1,0 +1,58 @@
+body {
+    width: 475px;
+    height: 1953px;
+    font-family: Helvetica, sans-serif;
+    color: #333333;
+}
+
+.container {
+    margin: 96px 16px 96px 16px;
+}
+
+.testimonial {
+    background-color: #f2f2f2;
+    padding: 15px 35px 15px 35px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.testimonial > #author {
+    text-align: end;
+}
+
+h1 {
+    font-size: 1.75em;
+}
+
+#msg {
+    margin-bottom: 40px;
+}
+
+img {
+    width: 443px;
+}
+
+p {
+    line-height: 1.5em;
+    font-size: 1.05em;
+}
+.cards {
+    margin-bottom: 150px;
+}
+
+.staff-div {
+    height: 331px;
+    margin-top: -36px;
+    margin-left: 16px;
+    padding: 5px 30px 5px 30px;
+    background-color: #f2f2f2;
+    position: relative;
+}
+
+.learn-more {
+    position: absolute;
+    right: 40px;
+    bottom: 40px;
+    text-align: end;
+    font-weight: 600;
+}
